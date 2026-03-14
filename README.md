@@ -1,3 +1,5 @@
+![LRF Cognitive Kernel](external/assets/LRF_Header_Github.jpg)
+
 # Layered Reasoning Framework (LRF)
 
 The Layered Reasoning Framework (LRF) is a lightweight, model‑agnostic system designed to bring structure, clarity, and consistency to AI reasoning. It provides a simple, portable way to guide how AI models interpret tasks—without modifying the model itself.
