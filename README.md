@@ -1,4 +1,4 @@
-![LRF Cognitive Kernel](external/assets/LRF Header Github.jpg)
+![LRF Cognitive Kernel](external/assets/LRF_Header_Github.jpg)
 
 # Layered Reasoning Framework (LRF)
 
